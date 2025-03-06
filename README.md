@@ -1,6 +1,4 @@
-# Neon Rubik's Cube Visualization 🎨魔方
 
-![Rubik's Cube Animation](https://via.placeholder.com/600x400?text=3D+Neon+Cube+Animation)
 
 ## Description
 A mesmerizing 3D visualization of a Rubik's Cube with:
